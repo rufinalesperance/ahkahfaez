@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vungaphea.majowa.com.pl/sitemap.xml
